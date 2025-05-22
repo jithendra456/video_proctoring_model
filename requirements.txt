@@ -1,0 +1,10 @@
+opencv-python
+mediapipe
+scipy
+torch
+torchvision
+ultralytics
+sounddevice
+numpy
+fastapi
+uvicorn
